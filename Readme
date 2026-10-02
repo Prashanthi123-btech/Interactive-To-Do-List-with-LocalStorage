@@ -1,0 +1,97 @@
+# Interactive To-Do List with LocalStorage
+
+A simple and interactive **To-Do List web application** built using **HTML, CSS, and JavaScript**. It allows users to add, complete, and delete tasks while automatically saving tasks in the browser using **LocalStorage**.
+
+## Features
+
+* Add new tasks
+* Press **Enter** to add a task
+* Mark tasks as completed
+* Delete tasks
+* Tasks remain saved after page refresh
+* Dynamic DOM manipulation
+* JavaScript event listeners
+* LocalStorage data persistence
+* Responsive and simple user interface
+
+## Technologies Used
+
+* **HTML5** – Structure of the application
+* **CSS3** – Styling and layout
+* **JavaScript** – Functionality and DOM manipulation
+* **LocalStorage** – Saving tasks in the browser
+
+## How It Works
+
+### 1. Add a Task
+
+Enter a task in the input box and click the **Add** button.
+
+You can also press the **Enter** key to add the task.
+
+### 2. Complete a Task
+
+Click the checkbox next to a task to mark it as completed.
+
+The completed task will appear with a **strikethrough**.
+
+### 3. Delete a Task
+
+Click the **Delete** button to permanently remove a task from the current list.
+
+### 4. LocalStorage
+
+Tasks are stored in the browser's LocalStorage.
+
+Therefore, the tasks remain available even after refreshing or reopening the page in the same browser.
+
+## Project Structure
+
+```text
+Interactive-To-Do-List/
+│
+├── index.html
+└── README.md
+```
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in any modern web browser.
+4. Start adding your tasks.
+
+## Learning Outcomes
+
+This project helps understand:
+
+* DOM manipulation
+* JavaScript variables and objects
+* Functions
+* Event listeners
+* Keyboard events
+* Click events
+* Array operations
+* JSON
+* LocalStorage
+* Basic state management
+
+## Future Improvements
+
+The project can be improved by adding:
+
+* Edit task functionality
+* Search tasks
+* Filter completed and pending tasks
+* Clear all tasks button
+* Task due dates
+* Dark mode
+* Drag-and-drop task ordering
+
+## Author
+
+**C Madhav Prabhas**
+
+## License
+
+This project is created for **learning and educational purposes**.
